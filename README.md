@@ -115,6 +115,12 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Musab333&show_icons=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Musab333&layout=compact)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Musab333&size_weight=0.5&count_weight=0.5)
+
 ###
 
 <img align="right" height="250" src="https://media.giphy.com/media/br99SojJZ5rlfSYset/giphy.gif?cid=ecf05e47lvqvybi2gd73wjcfde3lqwzxxavswytsexb89xku&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
