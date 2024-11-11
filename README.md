@@ -124,7 +124,7 @@
 
 ###
 
-<h3 align="left">🏅Activities :</h3>
+<h3 align="left">🏅 Activities :</h3>
 
 <p align="left">✨ Continue Education<br>🎯 New Technologies<br>📚 Reading Books<br>🎮 Video Games<br>🏀 Basketball<br>🎵 Music</p>
 
