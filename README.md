@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I am Musab 👋</h1>
+<h1 align="center">Hi, I am Musab 👋 </h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻  About Me </h3>
 
 ###
 
@@ -11,12 +11,12 @@
 ###
 
 <div align="center">
-  <img height="450" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47lvqvybi2gd73wjcfde3lqwzxxavswytsexb89xku&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
+  <img height="450" width="80%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47lvqvybi2gd73wjcfde3lqwzxxavswytsexb89xku&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
 </div>
 
 ###
 
-<h3 align="left">💻 Frameworks Development</h3>
+<h3 align="left">💻 Frameworks Development : </h3>
 
 ###
 
@@ -66,7 +66,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Language and tools : </h3>
 
 ###
 
@@ -98,11 +98,11 @@
 
 ###
 
-<h3 align="left">🌐 Social Media</h3>
+<h3 align="left">🌐 Social Media : </h3>
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/musab-a-mohamed-279275251/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
@@ -113,20 +113,35 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">🔥  My Stats :</h3>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Musab333&show_icons=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Musab333&layout=compact)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Musab333&size_weight=0.5&count_weight=0.5)
+
+<!-- img alt="my stats" align="left" width="47%" src="https://github-readme-stats.vercel.app/api/?username=Musab333&layout=compact "/-->
 
 ###
 
-<img align="right" height="250" src="https://media.giphy.com/media/br99SojJZ5rlfSYset/giphy.gif?cid=ecf05e47lvqvybi2gd73wjcfde3lqwzxxavswytsexb89xku&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
+<h3 align="left">🏅Activities :</h3>
+
+<p align="left">✨ Continue Education<br>🎯 New Technologies<br>📚 Reading Books<br>🎮 Video Games<br>🏀 Basketball<br>🎵 Music</p>
 
 ###
 
-<img align="left" height="250" src="https://media.giphy.com/media/u1WhXLjwgcXpHJBMRM/giphy.gif?cid=ecf05e477qjmlu5hrzmigxmn7gh3sa85ht9527mci36fv49l&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
+###
+
+<!--div align="left">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=5&username=Musab333&theme=dark" alt="Layout with last medium posts"  />
+</div-->
+
+###
+
+<img align="right" height="400"  src="https://media.giphy.com/media/br99SojJZ5rlfSYset/giphy.gif?cid=ecf05e47lvqvybi2gd73wjcfde3lqwzxxavswytsexb89xku&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
+
+###
+
+<img align="left" height="400"  src="https://media.giphy.com/media/u1WhXLjwgcXpHJBMRM/giphy.gif?cid=ecf05e477qjmlu5hrzmigxmn7gh3sa85ht9527mci36fv49l&ep=v1_gifs_related&rid=giphy.gif&ct=g"  />
 
 ###
