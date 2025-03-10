@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm  Software Engineer and Mobile Application Developer <br>(Flutter and Android Mobile)📱<br><br>As an accomplished Software Engineer with a specialization in mobile application development, I bring a wealth of expertise in creating cutting-edge and user-centric mobile experiences using the Flutter framework. With a passion for innovation and a keen eye for detail, I am dedicated to delivering high-quality, robust, and visually appealing applications.</p>
+<p align="left">I'm  Software Engineer and Mobile Application Developer <br>(Flutter and Android Mobile)📱<br><br>As an accomplished Software Engineer with a specialization in mobile application development, I bring a wealth of expertise in creating cutting-edge and user-centric mobile experiences using the Flutter framework. With a passion for innovation and a keen eye for detail, I am dedicated to delivering high-quality, robust, and visually appealing applications.💻</p>
 
 ###
 
